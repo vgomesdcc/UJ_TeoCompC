@@ -2,7 +2,7 @@
 
 int main() {
 
-  printf("Digite suas notass: "); 
+  printf("Digite suas notas: "); 
 
   int prova1;
   scanf("%d",&prova1);
